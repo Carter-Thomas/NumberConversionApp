@@ -1,3 +1,10 @@
+//
+//  ConversionType.swift
+//  NumberConversionApp
+//
+//  Created by Carter M. Thomas on 9/20/23.
+//
+
 import SwiftUI
 
 enum ConversionType: String, CaseIterable {
@@ -8,3 +15,4 @@ enum ConversionType: String, CaseIterable {
     case binaryToHex = "Binary to Hex"
     case hexToBinary = "Hex to Binary"
 }
+

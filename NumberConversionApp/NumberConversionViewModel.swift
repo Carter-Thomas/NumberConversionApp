@@ -1,3 +1,11 @@
+//
+//  NumberConversionViewModel.swift
+//  NumberConversionApp
+//
+//  Created by Carter M. Thomas on 9/20/23.
+//
+
+import Foundation
 import SwiftUI
 
 final class NumberConversionViewModel: ObservableObject {
